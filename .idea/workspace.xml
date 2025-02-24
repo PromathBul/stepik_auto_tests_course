@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3acae504-52f0-42a2-a6a9-5e3cebf7f7bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/selenium_info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_10_option_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_11_execute_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_12_not_clickable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_13_scroll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_14_load_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_15_confirm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_16_switch_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_17_nosuchelementexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_18_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_19_explicit_waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_1_find_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_2_method_quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_3_independent_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_4_independent_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_5_independent_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_6_independent_task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_7_independent_task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_8_checkbox_radiobutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_9_get_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tFecX4Xvfzx47u84isB8jycxua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.find_element.executor": "Run",
+    "Python.method_quit.executor": "Run",
+    "Python.part_10_option_select.executor": "Run",
+    "Python.part_11_execute_script.executor": "Run",
+    "Python.part_12_not_clickable.executor": "Run",
+    "Python.part_13_scroll.executor": "Run",
+    "Python.part_14_load_file.executor": "Run",
+    "Python.part_15_confirm.executor": "Run",
+    "Python.part_16_switch_window.executor": "Run",
+    "Python.part_17_nosuchelementexception.executor": "Run",
+    "Python.part_18_exceptions.executor": "Run",
+    "Python.part_19_explicit_waits.executor": "Run",
+    "Python.part_3_independent_task_1.executor": "Run",
+    "Python.part_4_independent_task_2.executor": "Run",
+    "Python.part_5_independent_task_3.executor": "Run",
+    "Python.part_6_independent_task_4.executor": "Run",
+    "Python.part_7_independent_task_5.executor": "Run",
+    "Python.part_8_checkbox_radiobutton.executor": "Run",
+    "Python.part_9_get_attribute.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_module.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/selenium_info"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\selenium_info" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acae504-52f0-42a2-a6a9-5e3cebf7f7bf" name="Changes" comment="" />
+      <created>1739952329805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739952329805</updated>
+    </task>
+    <servers />
+  </component>
+</project>
