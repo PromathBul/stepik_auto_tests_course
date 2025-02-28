@@ -960,4 +960,19 @@ pytest scripts/drafts.py::test_register_new_user_parametrized
 Давайте еще раз запустим наши тесты с помощью unittest и PyTest, чтобы сравнить выводимый результат.  
 Мы видим, что в PyTest-отчёте упавший тест выделен красным шрифтом, что делает разбор логов более приятным занятием.  
 Если запустить PyTest с параметром `-v` (verbose, то есть подробный), то в отчёт добавится дополнительная информация со списком тестов и статусом их прохождения.  
-Другие полезные команды для манипуляции выводом тестов PyTest можно найти по ссылке: [Useful py.test commands](https://gist.github.com/amatellanes/12136508b816469678c2).
+Другие полезные команды для манипуляции выводом тестов PyTest можно найти по ссылке: [Useful py.test commands](https://gist.github.com/amatellanes/12136508b816469678c2).  
+# PyTest — как пишут тесты
+PyTest не требует написания дополнительных специфических конструкций в тестах, как того требует unittest.  
+Мы уже увидели, что PyTest может запускать тесты, написанные в unittest-стиле. Перепишем наши тесты из test_abs_project.py в более простом формате, который также понимает PyTest. Назовём новый файл **test_abs.py**:
+```
+def test_abs1():
+    assert abs(-42) == 42, "Should be absolute value of a number"
+
+def test_abs2():
+    assert abs(-42) == -42, "Should be absolute value of a number"
+```
+Запустим тесты в этом файле:
+```
+pytest test_abs.py
+```
+Код тестов стал короче и читабельнее.
