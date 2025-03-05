@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3acae504-52f0-42a2-a6a9-5e3cebf7f7bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1/test_conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,40 +32,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_abs_project.py.executor": "Run",
-    "Python tests.Python tests in test_fixture4.py.executor": "Run",
-    "Python tests.Python tests in test_fixture_autouse.py.executor": "Run",
-    "Python tests.Python tests in test_registration.py.executor": "Run",
-    "Python tests.Python tests in test_xfail.py.executor": "Run",
-    "Python.find_element.executor": "Run",
-    "Python.method_quit.executor": "Run",
-    "Python.part_10_option_select.executor": "Run",
-    "Python.part_11_execute_script.executor": "Run",
-    "Python.part_12_not_clickable.executor": "Run",
-    "Python.part_13_scroll.executor": "Run",
-    "Python.part_14_load_file.executor": "Run",
-    "Python.part_15_confirm.executor": "Run",
-    "Python.part_16_switch_window.executor": "Run",
-    "Python.part_17_nosuchelementexception.executor": "Run",
-    "Python.part_18_exceptions.executor": "Run",
-    "Python.part_19_explicit_waits.executor": "Run",
-    "Python.part_20_assert.executor": "Run",
-    "Python.part_3_independent_task_1.executor": "Run",
-    "Python.part_4_independent_task_2.executor": "Run",
-    "Python.part_5_independent_task_3.executor": "Run",
-    "Python.part_6_independent_task_4.executor": "Run",
-    "Python.part_7_independent_task_5.executor": "Run",
-    "Python.part_8_checkbox_radiobutton.executor": "Run",
-    "Python.part_9_get_attribute.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_module.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/selenium_info"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_abs_project.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fixture4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fixture_autouse.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_registration.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_xfail.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method_quit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_10_option_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_11_execute_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_12_not_clickable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_13_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_14_load_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_15_confirm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_16_switch_window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_17_nosuchelementexception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_18_exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_19_explicit_waits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_20_assert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_3_independent_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_4_independent_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_5_independent_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_6_independent_task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_7_independent_task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_8_checkbox_radiobutton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_9_get_attribute.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_module.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/selenium_info&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\selenium_info" />
