@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3acae504-52f0-42a2-a6a9-5e3cebf7f7bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test_xfail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
     </list>
@@ -39,6 +38,7 @@
     "Python tests.Python tests in test_fixture4.py.executor": "Run",
     "Python tests.Python tests in test_fixture_autouse.py.executor": "Run",
     "Python tests.Python tests in test_registration.py.executor": "Run",
+    "Python tests.Python tests in test_xfail.py.executor": "Run",
     "Python.find_element.executor": "Run",
     "Python.method_quit.executor": "Run",
     "Python.part_10_option_select.executor": "Run",
